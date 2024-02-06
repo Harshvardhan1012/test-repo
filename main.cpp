@@ -1,9 +1,12 @@
 
 void quick(){
     //bubble sort algo
-void quick(){
-//quick sort algo
+
 }
+
+void bubblesort(){
+//bubble osrt code
+
 }
 
 int main(){
