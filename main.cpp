@@ -1,5 +1,5 @@
 
-void bubblesort(){
+void quick(){
     //bubble sort algo
 void quick(){
 //quick sort algo
